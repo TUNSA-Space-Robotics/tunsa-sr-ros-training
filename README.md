@@ -1,2 +1,2 @@
-# tunsa-sr-ros-training
-A repository containing a workspace we using during a ROS training workshop.
+# TUNSA Space Robotics ROS Training
+A workspace we used during a ROS training workshop, including a comprehensive multi-method guide to install Ubuntu and ROS.
